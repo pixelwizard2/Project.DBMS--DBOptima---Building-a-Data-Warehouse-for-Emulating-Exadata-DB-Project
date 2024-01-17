@@ -16,6 +16,7 @@ Exadata DB 모방을 위한 데이터 웨어하우스 구축 프로젝트(MySQL 
 
 This project utilizes a housing dataset to explore the role of a database administrator and practice key functions and optimization strategies of Database Management Systems (DBMS). By emulating the advanced features required in high-end database systems like Exadata DB within a MySQL environment, this mini project aims to enhance the management and optimization skills for complex database systems. The primary focus is on gaining an in-depth technical understanding of database performance monitoring, tuning, security management, backup, and recovery.
 
+![포스터 2](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/876a8494-09cb-4034-ad26-badd96a4505e)
 
 
 ## 2. Project Objective (프로젝트 목적)
@@ -61,13 +62,23 @@ Reason for Selection: Implementing a system similar to Exadata's 'Smart Metrics'
 ## 4. Project Implementation (프로젝트 구현)
 The project was carried out in the following stages:
 
+
 **(1) Schema Creation and Data Verification**
 
+![1 1 스키마 생성](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/efddc071-fb89-4054-9ef7-90c414db3c30)
 (1.1) Schema Creation
+
+![1 2 데이터 기본 통계치 확인](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/58aacd70-b617-424e-853f-bfc0ac3565d3)
 (1.2) Basic Statistical Data Verification
+
+![1 3 특정 조건을 만족하는 데이터 찾기](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/
 (1.3) Identifying Data that Meets Specific Conditions
+
+![1 4 데이터 정렬하기](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/b083da3a-8f66-4ed3-8cdb-2ae6f63087ed)
 (1.4) Sorting Data
-(2) Database Performance Monitoring & Query Performance Evaluation and Tuning
+
+
+**(2) Database Performance Monitoring & Query Performance Evaluation and Tuning**
 (2-1) Executing Queries to Verify MySQL Data Directory Path
 (2-2) Activating Slow Query Log
 (2-3) Generating Slow Query Logs and Real-Time Performance Monitoring
