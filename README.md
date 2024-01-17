@@ -27,7 +27,7 @@ The goal of this project is to master simple data CRUD operations and develop a 
 ## 3. Technical Background and Utilized Techniques(기술적 배경 및 활용 기술)
 The project is built on the following technical background:
 
-## Basic Skills (Completed)
+## ※ Basic Skills (Completed)
 Schema Creation and Data Verification
 Database Performance Monitoring & Query Performance Evaluation and Tuning
 Data Security and Encryption Techniques
@@ -35,7 +35,7 @@ Data Integrity Maintenance and Recovery Strategy
 Large Data Processing (+Data Warehouse Construction)
 
 
-## Advanced Skills (Planned)**
+## ※ Advanced Skills (Planned)
 
 **(1) High Availability Setup**
 
