@@ -18,7 +18,7 @@ This project utilizes a housing dataset to explore the role of a database admini
 
 ![포스터 2](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/876a8494-09cb-4034-ad26-badd96a4505e)
 
-<br> <br> <br>
+<br> <br> 
 ## 2. Project Objective (프로젝트 목적)
 The goal of this project is to master simple data CRUD operations and develop a deep technical understanding and problem-solving skills. The project is designed to demonstrate the ability to derive business insights based on data analysis and apply solutions in a real work environment.
 
@@ -41,20 +41,20 @@ The project is built on the following technical background:
 
 **(1) High Availability Setup**
 
-Objective: To ensure continuous availability and data integrity of the database.
-Reason for Selection: Preventing data loss during failures and ensuring uninterrupted service is critical in all large-scale database systems. This mirrors the high availability features of Exadata.
+- Objective: To ensure continuous availability and data integrity of the database.
+- Reason for Selection: Preventing data loss during failures and ensuring uninterrupted service is critical in all large-scale database systems. This mirrors the high availability features of Exadata.
 <br> <br>
 
 **(2) Disaster Recovery Plan**
 
-Objective: To develop swift and effective data recovery methods for data loss scenarios.
-Reason for Selection: The ability to protect and recover data in any disaster situation is a core aspect of Exadata DB management.
+- Objective: To develop swift and effective data recovery methods for data loss scenarios.
+- Reason for Selection: The ability to protect and recover data in any disaster situation is a core aspect of Exadata DB management.
 <br> <br>
 
 **(3) Security Enhancement Project**
 
-Objective: To strengthen database security and minimize security vulnerabilities.
-Reason for Selection: Database security is crucial in advanced systems like Exadata. We will practice enhancing security levels through user rights management, encryption, and SQL injection prevention techniques.
+- Objective: To strengthen database security and minimize security vulnerabilities.
+- Reason for Selection: Database security is crucial in advanced systems like Exadata. We will practice enhancing security levels through user rights management, encryption, and SQL injection prevention techniques.
 <br> <br>
 
 **(4) Automation and Monitoring**
