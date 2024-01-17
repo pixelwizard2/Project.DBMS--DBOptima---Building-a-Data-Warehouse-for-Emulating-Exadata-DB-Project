@@ -16,39 +16,53 @@ Exadata DB 모방을 위한 데이터 웨어하우스 구축 프로젝트(MySQL 
 
 This project utilizes a housing dataset to explore the role of a database administrator and practice key functions and optimization strategies of Database Management Systems (DBMS). By emulating the advanced features required in high-end database systems like Exadata DB within a MySQL environment, this mini project aims to enhance the management and optimization skills for complex database systems. The primary focus is on gaining an in-depth technical understanding of database performance monitoring, tuning, security management, backup, and recovery.
 
-Project Objective
+
+
+## 2. Project Objective (프로젝트 목적)
 The goal of this project is to master simple data CRUD operations and develop a deep technical understanding and problem-solving skills. The project is designed to demonstrate the ability to derive business insights based on data analysis and apply solutions in a real work environment.
 
-Technical Background and Utilized Techniques
+
+
+## 3. Technical Background and Utilized Techniques(기술적 배경 및 활용 기술)
 The project is built on the following technical background:
 
-Basic Skills (Completed)
+## Basic Skills (Completed)
 Schema Creation and Data Verification
 Database Performance Monitoring & Query Performance Evaluation and Tuning
 Data Security and Encryption Techniques
 Data Integrity Maintenance and Recovery Strategy
 Large Data Processing (+Data Warehouse Construction)
-Advanced Skills (Planned)
-(1) High Availability (HA) Setup
+
+
+## Advanced Skills (Planned)**
+
+**(1) High Availability Setup**
 
 Objective: To ensure continuous availability and data integrity of the database.
 Reason for Selection: Preventing data loss during failures and ensuring uninterrupted service is critical in all large-scale database systems. This mirrors the high availability features of Exadata.
-(2) Disaster Recovery (DR) Plan
+
+**(2) Disaster Recovery Plan**
 
 Objective: To develop swift and effective data recovery methods for data loss scenarios.
 Reason for Selection: The ability to protect and recover data in any disaster situation is a core aspect of Exadata DB management.
-(3) Security Enhancement Project
+
+**(3) Security Enhancement Project**
 
 Objective: To strengthen database security and minimize security vulnerabilities.
 Reason for Selection: Database security is crucial in advanced systems like Exadata. We will practice enhancing security levels through user rights management, encryption, and SQL injection prevention techniques.
-(4) Automation and Monitoring
+
+**(4) Automation and Monitoring**
 
 Objective: To automatically monitor database status and detect potential issues in advance.
 Reason for Selection: Implementing a system similar to Exadata's 'Smart Metrics' for continuous monitoring of database performance and health.
-Project Implementation
+
+
+
+## 4. Project Implementation (프로젝트 구현)
 The project was carried out in the following stages:
 
-(1) Schema Creation and Data Verification
+**(1) Schema Creation and Data Verification**
+
 (1.1) Schema Creation
 (1.2) Basic Statistical Data Verification
 (1.3) Identifying Data that Meets Specific Conditions
