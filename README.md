@@ -78,39 +78,83 @@ The project was carried out in the following stages:
 (1.4) Sorting Data
 
 
+
 **(2) Database Performance Monitoring & Query Performance Evaluation and Tuning**
+
+
 (2-1) Executing Queries to Verify MySQL Data Directory Path
+
+
 (2-2) Activating Slow Query Log
+
+
 (2-3) Generating Slow Query Logs and Real-Time Performance Monitoring
+
+
 (2-4) Analyzing Index Efficiency for LSTAT Column (No Performance Improvement)
-(2-5) Attempting to Improve Search Performance by Adding an Index to LSTAT
-Column (No Time Improvement)
+
+
+(2-5) Attempting to Improve Search Performance by Adding an Index to LSTAT Column (No Time Improvement)
+
 
 (2-6) Improved Performance Confirmed by Tuning Index for LSTAT Range Query
-(3) Data Security and Encryption Techniques
+
+
+
+**(3) Data Security and Encryption Techniques**
+
+
 (3-1) Enhancing Data Security with Advanced AES Encryption
-(4) Data Integrity Maintenance and Recovery Strategy
+
+
+
+**(4) Data Integrity Maintenance and Recovery Strategy**
+
+
 (4.1) Database Recovery Strategy and Error Resolution During Code Execution, Handling Duplicate Records Using INSERT IGNORE and ON DUPLICATE KEY UPDATE
-(5) Large Data Processing (+Data Warehouse Construction)
+
+
+
+**(5) Large Data Processing (+Data Warehouse Construction)**
+
+
 (5-1) SQL Work for Table Creation, Data Loading, and Range Partitioning in Database
+
 (5-2) Querying Partition Information for Data Warehouse Construction
+
+
 (5-3) Data Warehouse Construction Process, Querying Partitions of 'housing_new' Table
+
+
 (5-4) Initial Data Loading and Creation of Dimension and Fact Tables
+
+
 (5-5) Querying the First 10 Records of the Housing Table in the New_schema Schema
+
+
 (5-6) Executing and Utilizing Data Warehouse Queries
-Expected Results and Learning Points
+
+
+
+## 5. Expected Results and Learning Points (예상 결과 및 학습 포인트)
 The completed project is expected to yield the following results:
 
-Experience in writing and optimizing queries for complex datasets
-Enhanced ability to respond to real-world work environment incidents and performance tuning
-A deeper understanding of database security enhancement
-Development of practical cases for maintaining data integrity and recovery strategies
-Implementation of predictive models for data-based decision-making support
-Project Expansion Plans
+-Experience in writing and optimizing queries for complex datasets
+-Enhanced ability to respond to real-world work environment incidents and performance tuning
+-A deeper understanding of database security enhancement
+-Development of practical cases for maintaining data integrity and recovery strategies
+-Implementation of predictive models for data-based decision-making support
+
+
+
+## 6. Project Expansion Plans (프로젝트 확장 계획)
 After the completion of the project, the following expansions are planned:
 
-Developing a decision support system based on data analysis results and insights
-Acquiring skills in data movement and transformation between databases through DB migration scenarios
-Strengthening database security expertise through additional security feature implementation and practice
-Conclusion and Expected Effects
+-Developing a decision support system based on data analysis results and insights
+-Acquiring skills in data movement and transformation between databases through DB migration scenarios
+-Strengthening database security expertise through additional security feature implementation and practice
+
+
+
+## 7. Conclusion and Expected Effects (결론 및 기대 효과)
 This project aims to deepen the expertise of a database administrator and improve skills in managing and optimizing complex database systems. It will demonstrate advanced technical capabilities and problem-solving skills required in a data-centric business environment.
