@@ -72,7 +72,7 @@ The project was carried out in the following stages:
 
 ![1 1 스키마 생성](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/efddc071-fb89-4054-9ef7-90c414db3c30)
 - (1.1) Schema Creation
-<br>
+<br> <br>
 
 ![1 2 데이터 기본 통계치 확인](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/58aacd70-b617-424e-853f-bfc0ac3565d3)
 - (1.2) Basic Statistical Data Verification
@@ -80,31 +80,38 @@ The project was carried out in the following stages:
 
 ![1 3 특정 조건을 만족하는 데이터 찾기](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/75ded393-b291-4ac0-b143-44e0793de833)
 - (1.3) Identifying Data that Meets Specific Conditions
+<br> <br>
 
 ![1 4 데이터 정렬하기](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/b083da3a-8f66-4ed3-8cdb-2ae6f63087ed)
 - (1.4) Sorting Data
-
+<br> <br>
 
 
 **(2) Database Performance Monitoring & Query Performance Evaluation and Tuning**
 
 ![2-1  MySQL의 데이터 디렉터리 경로를 확인하는 쿼리 실행](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/5f238f65-d30f-4a2e-9383-007f34e58cec)
 - (2-1) Executing Queries to Verify MySQL Data Directory Path
+<br> <br>
 
 ![2-2  스로우 쿼리 로그(Slow Query Log) 활성화](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/6d510909-a9fa-43c1-b2f9-190caedb186d)
 - (2-2) Activating Slow Query Log
+<br> <br>
 
 ![2-3  슬로우 쿼리 로그 생성 및 실시간 성능 모니터링](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/7070e96d-d90c-4d4f-9703-9bcf134eba06)
 - (2-3) Generating Slow Query Logs and Real-Time Performance Monitoring
+<br> <br>
 
 ![2-4  LSTAT 컬럼에 대한 인덱스 효율성 분석(성능 향상 없음)](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/e28b4e0e-e0f0-48c2-af1b-360fc452e0e2)
 - (2-4) Analyzing Index Efficiency for LSTAT Column (No Performance Improvement)
+<br> <br>
 
 ![2-5   LSTAT 컬럼에 인덱스를 추가, 검색 성능 향상 시도(시간 개선 없음)](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/57a51bdb-3c57-4eee-ac2a-3e76e68cfffa)
 - (2-5) Attempting to Improve Search Performance by Adding an Index to LSTAT Column (No Time Improvement)
+<br> <br>
 
 ![2-6  LSTAT 범위 쿼리에 대한 인덱스 튜닝으로 성능 개선 확인됨](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/c2432db4-5aff-4341-9bfd-97d47a268cf9)
 - (2-6) Improved Performance Confirmed by Tuning Index for LSTAT Range Query
+<br> <br>
 
 
 
@@ -112,6 +119,7 @@ The project was carried out in the following stages:
 
 ![데이터 보안 강화를 위한 AES 암호화 향상](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/345f86d0-849b-4c26-b44f-bbcddedb5e35)
 - (3-1) Enhancing Data Security with Advanced AES Encryption
+<br> <br>
 
 
 
@@ -119,6 +127,7 @@ The project was carried out in the following stages:
 
 ![데이터베이스 복구 전략 및 코드 실행 과정에서 중복 키 관련 에러가 발생하였으며, 이를 해결하기 위해 INSERT IGNORE 및 ON DUPLICATE KEY UPDATE를 활용하여 중복 레코드를 처리하였습니다](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/56ff1f80-496d-4f0e-9956-8fbebcfb3925)
 - (4.1) Database Recovery Strategy and Error Resolution During Code Execution, Handling Duplicate Records Using INSERT IGNORE and ON DUPLICATE KEY UPDATE
+<br> <br>
 
 
 
@@ -126,19 +135,24 @@ The project was carried out in the following stages:
 
 ![5-1   데이터베이스에서 테이블 생성, 데이터 적재, 및 범위별 파티션 설정을 위한 SQL 작업](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/0ca08907-a68d-4bd3-bdf8-aef893bb04bf)
 - (5-1) SQL Work for Table Creation, Data Loading, and Range Partitioning in Database
+<br> <br>
 
 ![5-2  데이터 웨어하우스 구축을 위한 파티션 정보 조회 쿼리](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/cf845a85-7c6d-48b2-93a3-ea94f59719bf)
 - (5-2) Querying Partition Information for Data Warehouse Construction
+<br> <br>
 
 ![5-3  데이터 웨어하우스 구축 과정  'housing_new' 테이블 파티션 조회 단계](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/dca7a294-250e-4d7f-86c9-0906b6370c90)
 - (5-3) Data Warehouse Construction Process, Querying Partitions of 'housing_new' Table
+<br> <br>
 
 ![5-4(1)  데이터 초기 적재 및 차원, 사실 테이블 생성 쿼리](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/115ffb67-a9ce-4191-bb73-3f8e89987c61)
 ![5-4(2)](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/a1810ad6-c167-4a49-b693-ad49c3c04b16)
 - (5-4) Initial Data Loading and Creation of Dimension and Fact Tables
+<br> <br>
 
 ![5-5  new_schema 스키마에서 housing 테이블의 처음 10개 레코드 조회](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/24ea9f9f-3020-4c16-8ea3-b7e21b1292be)
 - (5-5) Querying the First 10 Records of the Housing Table in the New_schema Schema
+<br> <br>
 
 ![5-6  데이터 웨어하우스 쿼리 실행 및 활용](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/81a22599-a834-4e22-a4fb-834c5f6ae9af)
 - (5-6) Executing and Utilizing Data Warehouse Queries
