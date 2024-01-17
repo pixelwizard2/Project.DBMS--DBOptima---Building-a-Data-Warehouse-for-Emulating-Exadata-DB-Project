@@ -22,13 +22,12 @@ This project utilizes a housing dataset to explore the role of a database admini
 ## 2. Project Objective (프로젝트 목적)
 The goal of this project is to master simple data CRUD operations and develop a deep technical understanding and problem-solving skills. The project is designed to demonstrate the ability to derive business insights based on data analysis and apply solutions in a real work environment.
 
-<br> <br> <br>
+<br> <br> 
 
 ## 3. Technical Background and Utilized Techniques(기술적 배경 및 활용 기술)
 The project is built on the following technical background:
 
-
-
+<br>
 ## ※ Basic Skills (Completed)
 - Schema Creation and Data Verification
 - Database Performance Monitoring & Query Performance Evaluation and Tuning
@@ -37,7 +36,7 @@ The project is built on the following technical background:
 - Large Data Processing (+Data Warehouse Construction)
 
 
-
+<br>
 ## ※ Advanced Skills (Planned)
 
 **(1) High Availability Setup**
@@ -45,19 +44,19 @@ The project is built on the following technical background:
 Objective: To ensure continuous availability and data integrity of the database.
 Reason for Selection: Preventing data loss during failures and ensuring uninterrupted service is critical in all large-scale database systems. This mirrors the high availability features of Exadata.
 
-
+<br>
 **(2) Disaster Recovery Plan**
 
 Objective: To develop swift and effective data recovery methods for data loss scenarios.
 Reason for Selection: The ability to protect and recover data in any disaster situation is a core aspect of Exadata DB management.
 
-
+<br>
 **(3) Security Enhancement Project**
 
 Objective: To strengthen database security and minimize security vulnerabilities.
 Reason for Selection: Database security is crucial in advanced systems like Exadata. We will practice enhancing security levels through user rights management, encryption, and SQL injection prevention techniques.
 
-
+<br>
 **(4) Automation and Monitoring**
 
 Objective: To automatically monitor database status and detect potential issues in advance.
