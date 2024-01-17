@@ -117,21 +117,24 @@ The project was carried out in the following stages:
 
 **(5) Large Data Processing (+Data Warehouse Construction)**
 
-
+![5-1   데이터베이스에서 테이블 생성, 데이터 적재, 및 범위별 파티션 설정을 위한 SQL 작업](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/0ca08907-a68d-4bd3-bdf8-aef893bb04bf)
 - (5-1) SQL Work for Table Creation, Data Loading, and Range Partitioning in Database
 
+![5-2  데이터 웨어하우스 구축을 위한 파티션 정보 조회 쿼리](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/cf845a85-7c6d-48b2-93a3-ea94f59719bf)
 - (5-2) Querying Partition Information for Data Warehouse Construction
 
-
+![5-3  데이터 웨어하우스 구축 과정  'housing_new' 테이블 파티션 조회 단계](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/dca7a294-250e-4d7f-86c9-0906b6370c90)
 - (5-3) Data Warehouse Construction Process, Querying Partitions of 'housing_new' Table
 
-
+![5-4(1)  데이터 초기 적재 및 차원, 사실 테이블 생성 쿼리](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/115ffb67-a9ce-4191-bb73-3f8e89987c61)
+![5-4(2)](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/a1810ad6-c167-4a49-b693-ad49c3c04b16)
 - (5-4) Initial Data Loading and Creation of Dimension and Fact Tables
 
-
+![5-5  new_schema 스키마에서 housing 테이블의 처음 10개 레코드 조회](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/24ea9f9f-3020-4c16-8ea3-b7e21b1292be)
 - (5-5) Querying the First 10 Records of the Housing Table in the New_schema Schema
 
-
+![5-6  데이터 웨어하우스 쿼리 실행 및 활용](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/81a22599-a834-4e22-a4fb-834c5f6ae9af)
+8104d72f-bf9b-423a-adf2-ca1a92d0d65f)
 - (5-6) Executing and Utilizing Data Warehouse Queries
 
 
