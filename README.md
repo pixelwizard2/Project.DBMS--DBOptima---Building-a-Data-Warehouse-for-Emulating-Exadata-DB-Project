@@ -81,22 +81,22 @@ The project was carried out in the following stages:
 
 **(2) Database Performance Monitoring & Query Performance Evaluation and Tuning**
 
-
+![2-1  MySQL의 데이터 디렉터리 경로를 확인하는 쿼리 실행](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/5f238f65-d30f-4a2e-9383-007f34e58cec)
 - (2-1) Executing Queries to Verify MySQL Data Directory Path
 
-
+![2-2  스로우 쿼리 로그(Slow Query Log) 활성화](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/6d510909-a9fa-43c1-b2f9-190caedb186d)
 - (2-2) Activating Slow Query Log
 
-
+![2-3  슬로우 쿼리 로그 생성 및 실시간 성능 모니터링](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/7070e96d-d90c-4d4f-9703-9bcf134eba06)
 - (2-3) Generating Slow Query Logs and Real-Time Performance Monitoring
 
-
+![2-4  LSTAT 컬럼에 대한 인덱스 효율성 분석(성능 향상 없음)](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/e28b4e0e-e0f0-48c2-af1b-360fc452e0e2)
 - (2-4) Analyzing Index Efficiency for LSTAT Column (No Performance Improvement)
 
-
+![2-5   LSTAT 컬럼에 인덱스를 추가, 검색 성능 향상 시도(시간 개선 없음)](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/57a51bdb-3c57-4eee-ac2a-3e76e68cfffa)
 - (2-5) Attempting to Improve Search Performance by Adding an Index to LSTAT Column (No Time Improvement)
 
-
+![2-6  LSTAT 범위 쿼리에 대한 인덱스 튜닝으로 성능 개선 확인됨](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/c2432db4-5aff-4341-9bfd-97d47a268cf9)
 - (2-6) Improved Performance Confirmed by Tuning Index for LSTAT Range Query
 
 
