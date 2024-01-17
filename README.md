@@ -59,8 +59,8 @@ The project is built on the following technical background:
 
 **(4) Automation and Monitoring**
 
-Objective: To automatically monitor database status and detect potential issues in advance.
-Reason for Selection: Implementing a system similar to Exadata's 'Smart Metrics' for continuous monitoring of database performance and health.
+- Objective: To automatically monitor database status and detect potential issues in advance.
+- Reason for Selection: Implementing a system similar to Exadata's 'Smart Metrics' for continuous monitoring of database performance and health.
 
 <br> <br> <br>
 
@@ -72,9 +72,11 @@ The project was carried out in the following stages:
 
 ![1 1 스키마 생성](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/efddc071-fb89-4054-9ef7-90c414db3c30)
 - (1.1) Schema Creation
+<br>
 
 ![1 2 데이터 기본 통계치 확인](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/58aacd70-b617-424e-853f-bfc0ac3565d3)
 - (1.2) Basic Statistical Data Verification
+<br> <br>
 
 ![1 3 특정 조건을 만족하는 데이터 찾기](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/75ded393-b291-4ac0-b143-44e0793de833)
 - (1.3) Identifying Data that Meets Specific Conditions
