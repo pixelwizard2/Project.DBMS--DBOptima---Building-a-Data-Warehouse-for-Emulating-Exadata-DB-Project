@@ -134,7 +134,6 @@ The project was carried out in the following stages:
 - (5-5) Querying the First 10 Records of the Housing Table in the New_schema Schema
 
 ![5-6  데이터 웨어하우스 쿼리 실행 및 활용](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/81a22599-a834-4e22-a4fb-834c5f6ae9af)
-8104d72f-bf9b-423a-adf2-ca1a92d0d65f)
 - (5-6) Executing and Utilizing Data Warehouse Queries
 
 
