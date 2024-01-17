@@ -66,7 +66,7 @@ The project was carried out in the following stages:
 **(1) Schema Creation and Data Verification**
 
 ![1 1 스키마 생성](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/efddc071-fb89-4054-9ef7-90c414db3c30)
-(1.1) Schema Creation
+- (1.1) Schema Creation
 
 ![1 2 데이터 기본 통계치 확인](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/58aacd70-b617-424e-853f-bfc0ac3565d3)
 (1.2) Basic Statistical Data Verification
