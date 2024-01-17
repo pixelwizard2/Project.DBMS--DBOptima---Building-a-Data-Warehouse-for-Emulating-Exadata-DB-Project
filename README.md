@@ -18,11 +18,11 @@ This project utilizes a housing dataset to explore the role of a database admini
 
 ![포스터 2](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/876a8494-09cb-4034-ad26-badd96a4505e)
 
-
+<br> <br> <br>
 ## 2. Project Objective (프로젝트 목적)
 The goal of this project is to master simple data CRUD operations and develop a deep technical understanding and problem-solving skills. The project is designed to demonstrate the ability to derive business insights based on data analysis and apply solutions in a real work environment.
 
-
+<br> <br> <br>
 
 ## 3. Technical Background and Utilized Techniques(기술적 배경 및 활용 기술)
 The project is built on the following technical background:
@@ -57,7 +57,7 @@ Reason for Selection: Database security is crucial in advanced systems like Exad
 Objective: To automatically monitor database status and detect potential issues in advance.
 Reason for Selection: Implementing a system similar to Exadata's 'Smart Metrics' for continuous monitoring of database performance and health.
 
-
+<br> <br> <br>
 
 ## 4. Project Implementation (프로젝트 구현)
 The project was carried out in the following stages:
@@ -136,7 +136,7 @@ The project was carried out in the following stages:
 ![5-6  데이터 웨어하우스 쿼리 실행 및 활용](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing--Exadata-Inspired/assets/138272416/81a22599-a834-4e22-a4fb-834c5f6ae9af)
 - (5-6) Executing and Utilizing Data Warehouse Queries
 
-
+<br> <br> <br>
 
 ## 5. Expected Results and Learning Points (예상 결과 및 학습 포인트)
 The completed project is expected to yield the following results:
@@ -147,7 +147,7 @@ The completed project is expected to yield the following results:
 - Development of practical cases for maintaining data integrity and recovery strategies
 - Implementation of predictive models for data-based decision-making support
 
-
+<br> <br> <br>
 
 ## 6. Project Expansion Plans (프로젝트 확장 계획)
 After the completion of the project, the following expansions are planned:
@@ -156,7 +156,7 @@ After the completion of the project, the following expansions are planned:
 - Acquiring skills in data movement and transformation between databases through DB migration scenarios
 - Strengthening database security expertise through additional security feature implementation and practice
 
-
+<br> <br> <br>
 
 ## 7. Conclusion and Expected Effects (결론 및 기대 효과)
 This project aims to deepen the expertise of a database administrator and improve skills in managing and optimizing complex database systems. It will demonstrate advanced technical capabilities and problem-solving skills required in a data-centric business environment.
