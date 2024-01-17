@@ -1,4 +1,4 @@
-# Project.DBMS--ExaProve---Foundational Data Warehousing with Exadata Inspired Exploration
+# Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration
 Exadata DB 모방을 위한 데이터 웨어하우스 구축 프로젝트(MySQL 활용)
  
 <p align="right">
@@ -6,10 +6,10 @@ Exadata DB 모방을 위한 데이터 웨어하우스 구축 프로젝트(MySQL 
     <img src="https://img.shields.io/badge/한국어%20번역본-03C75A?style=flat-square&logo=Naver&logoColor=white" alt="네이버 블로그">
   </a> </p>  
   
-![타이타닉 1](https://github.com/pixelwizard2/Project.DBMS--ExaProve---DB-Voyage-of-the-Titanic--Database-Operation-and-Optimization/assets/138272416/6c6b10a1-c5a3-46af-b4c1-8365340464d0)
+![사진1](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/3e7851bf-7bf6-4bc6-bbc3-1f10dc658082)
 
  
-**※ Development Period : 2023.01.12 ~ 2023.01.14 (24h) (In Progress) <진행 중>**
+**※ Development Period : 2024.01.12 ~ 2024.01.15 (30h)**
 <br> <br> <br>
 
 ## 1. Project Overview (프로젝트 개요)
