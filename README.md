@@ -103,14 +103,14 @@ The project was carried out in the following stages:
 
 **(3) Data Security and Encryption Techniques**
 
-
+![데이터 보안 강화를 위한 AES 암호화 향상](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/345f86d0-849b-4c26-b44f-bbcddedb5e35)
 - (3-1) Enhancing Data Security with Advanced AES Encryption
 
 
 
 **(4) Data Integrity Maintenance and Recovery Strategy**
 
-
+![데이터베이스 복구 전략 및 코드 실행 과정에서 중복 키 관련 에러가 발생하였으며, 이를 해결하기 위해 INSERT IGNORE 및 ON DUPLICATE KEY UPDATE를 활용하여 중복 레코드를 처리하였습니다](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/56ff1f80-496d-4f0e-9956-8fbebcfb3925)
 - (4.1) Database Recovery Strategy and Error Resolution During Code Execution, Handling Duplicate Records Using INSERT IGNORE and ON DUPLICATE KEY UPDATE
 
 
