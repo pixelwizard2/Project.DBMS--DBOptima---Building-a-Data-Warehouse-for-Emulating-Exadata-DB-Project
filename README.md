@@ -139,20 +139,20 @@ The project was carried out in the following stages:
 ## 5. Expected Results and Learning Points (예상 결과 및 학습 포인트)
 The completed project is expected to yield the following results:
 
--Experience in writing and optimizing queries for complex datasets
--Enhanced ability to respond to real-world work environment incidents and performance tuning
--A deeper understanding of database security enhancement
--Development of practical cases for maintaining data integrity and recovery strategies
--Implementation of predictive models for data-based decision-making support
+- Experience in writing and optimizing queries for complex datasets
+- Enhanced ability to respond to real-world work environment incidents and performance tuning
+- A deeper understanding of database security enhancement
+- Development of practical cases for maintaining data integrity and recovery strategies
+- Implementation of predictive models for data-based decision-making support
 
 
 
 ## 6. Project Expansion Plans (프로젝트 확장 계획)
 After the completion of the project, the following expansions are planned:
 
--Developing a decision support system based on data analysis results and insights
--Acquiring skills in data movement and transformation between databases through DB migration scenarios
--Strengthening database security expertise through additional security feature implementation and practice
+- Developing a decision support system based on data analysis results and insights
+- Acquiring skills in data movement and transformation between databases through DB migration scenarios
+- Strengthening database security expertise through additional security feature implementation and practice
 
 
 
