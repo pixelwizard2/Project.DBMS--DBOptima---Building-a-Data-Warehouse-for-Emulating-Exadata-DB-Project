@@ -69,70 +69,70 @@ The project was carried out in the following stages:
 - (1.1) Schema Creation
 
 ![1 2 데이터 기본 통계치 확인](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/58aacd70-b617-424e-853f-bfc0ac3565d3)
-(1.2) Basic Statistical Data Verification
+- (1.2) Basic Statistical Data Verification
 
 ![1 3 특정 조건을 만족하는 데이터 찾기](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration/assets/138272416/75ded393-b291-4ac0-b143-44e0793de833)
-(1.3) Identifying Data that Meets Specific Conditions
+- (1.3) Identifying Data that Meets Specific Conditions
 
 ![1 4 데이터 정렬하기](https://github.com/pixelwizard2/Project.DBMS--ExaProve---Building-a-Data-Warehouse-for-Emulating-Exadata-DB-Project/assets/138272416/b083da3a-8f66-4ed3-8cdb-2ae6f63087ed)
-(1.4) Sorting Data
+- (1.4) Sorting Data
 
 
 
 **(2) Database Performance Monitoring & Query Performance Evaluation and Tuning**
 
 
-(2-1) Executing Queries to Verify MySQL Data Directory Path
+- (2-1) Executing Queries to Verify MySQL Data Directory Path
 
 
-(2-2) Activating Slow Query Log
+- (2-2) Activating Slow Query Log
 
 
-(2-3) Generating Slow Query Logs and Real-Time Performance Monitoring
+- (2-3) Generating Slow Query Logs and Real-Time Performance Monitoring
 
 
-(2-4) Analyzing Index Efficiency for LSTAT Column (No Performance Improvement)
+- (2-4) Analyzing Index Efficiency for LSTAT Column (No Performance Improvement)
 
 
-(2-5) Attempting to Improve Search Performance by Adding an Index to LSTAT Column (No Time Improvement)
+- (2-5) Attempting to Improve Search Performance by Adding an Index to LSTAT Column (No Time Improvement)
 
 
-(2-6) Improved Performance Confirmed by Tuning Index for LSTAT Range Query
+- (2-6) Improved Performance Confirmed by Tuning Index for LSTAT Range Query
 
 
 
 **(3) Data Security and Encryption Techniques**
 
 
-(3-1) Enhancing Data Security with Advanced AES Encryption
+- (3-1) Enhancing Data Security with Advanced AES Encryption
 
 
 
 **(4) Data Integrity Maintenance and Recovery Strategy**
 
 
-(4.1) Database Recovery Strategy and Error Resolution During Code Execution, Handling Duplicate Records Using INSERT IGNORE and ON DUPLICATE KEY UPDATE
+- (4.1) Database Recovery Strategy and Error Resolution During Code Execution, Handling Duplicate Records Using INSERT IGNORE and ON DUPLICATE KEY UPDATE
 
 
 
 **(5) Large Data Processing (+Data Warehouse Construction)**
 
 
-(5-1) SQL Work for Table Creation, Data Loading, and Range Partitioning in Database
+- (5-1) SQL Work for Table Creation, Data Loading, and Range Partitioning in Database
 
-(5-2) Querying Partition Information for Data Warehouse Construction
-
-
-(5-3) Data Warehouse Construction Process, Querying Partitions of 'housing_new' Table
+- (5-2) Querying Partition Information for Data Warehouse Construction
 
 
-(5-4) Initial Data Loading and Creation of Dimension and Fact Tables
+- (5-3) Data Warehouse Construction Process, Querying Partitions of 'housing_new' Table
 
 
-(5-5) Querying the First 10 Records of the Housing Table in the New_schema Schema
+- (5-4) Initial Data Loading and Creation of Dimension and Fact Tables
 
 
-(5-6) Executing and Utilizing Data Warehouse Queries
+- (5-5) Querying the First 10 Records of the Housing Table in the New_schema Schema
+
+
+- (5-6) Executing and Utilizing Data Warehouse Queries
 
 
 
