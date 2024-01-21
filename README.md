@@ -1,4 +1,4 @@
-# Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration
+# Project.DBMS--ExaProve---Foundational-Data-Warehousing-with-Exadata-Inspired-Exploration 
 _Exadata DB 모방을 위한 데이터 웨어하우스 구축 프로젝트(MySQL 활용)_
  
 <p align="right">
